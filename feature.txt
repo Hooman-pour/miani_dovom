@@ -2,4 +2,6 @@ line 0 of feature 1
 line 1 of feature 1
 line 2 of feature 1
 line2-1 of feature 1
+line3 of feature 1
+line4 of feature 1
 
